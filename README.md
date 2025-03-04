@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanu_Pratap</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
 
-- 👋 Hi, I’m @Bhanu Pratap
+
 - 👀 I’m interested in Automation Testing.
 - 🌱 I’m currently learning API Testing.
 - 💞️ I’m looking to collaborate on API Testing.
