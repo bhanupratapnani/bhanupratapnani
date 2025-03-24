@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">✨ I’m interested in Automation Testing.<br>📚 I’m currently learning API REST Assued.<br>🎯 I’m looking to collaborate on API REST Assured.<br>💞️ Let's Learn Together.</p>
+<p align="left">✨ I’m interested in Automation Testing.<br>📚 I’m currently learning API REST Assured.<br>🎯 I’m looking to collaborate on API REST Assured.<br>💞️ Let's Learn Together.</p>
 
 ###
 
