@@ -40,6 +40,9 @@
  <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Shoaibsheikh786/Shoaibsheikh786/blob/main/tesngpng.png" alt="testng" width="60" height="60"/> 
   </a>
+ <a href="https://allurereport.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" alt="allure-reporting" width="60" height="60"/> 
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
