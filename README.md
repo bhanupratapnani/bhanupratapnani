@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 
 ###
 
