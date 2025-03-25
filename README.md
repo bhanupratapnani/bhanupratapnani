@@ -64,6 +64,11 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
   </a>
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" alt="github" width="60" height="60" />
+</a>
+
+###
   <br><br>
 
   
