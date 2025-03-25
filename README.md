@@ -34,6 +34,9 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> 
   </a>
+ <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Shoaibsheikh786/Shoaibsheikh786/blob/main/restassuredpng.png" alt="rest-assured" width="60" height="60"/> 
+  </a>
  <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/Shoaibsheikh786/Shoaibsheikh786/blob/main/tesngpng.png" alt="testng" width="60" height="60"/> 
   </a>
